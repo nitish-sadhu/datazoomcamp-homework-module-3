@@ -100,3 +100,6 @@ It is best practice in Big Query to always cluster your data: "True"
 
 ---Question 9: 
     Estimated bytes to read are 0B, because the data is not present in Big Query but in GCS.
+
+        select count(*) from datazoomcamp-484706.nyc_yellow_taxi_data_hw_nits.yellow_taxi_trips
+        ;
