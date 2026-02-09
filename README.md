@@ -92,10 +92,10 @@ To create a GCS bucket and upload data into it, have used key from my service ac
 
 
 ---Question 8: 
-It is best practice in Big Query to always cluster your data: "True"
+    It is best practice in Big Query to always cluster your data: "True"
 
-    select count(*) from datazoomcamp-484706.nyc_yellow_taxi_data_hw_nits.yellow_taxi_trips
-    ;
+        select count(*) from datazoomcamp-484706.nyc_yellow_taxi_data_hw_nits.yellow_taxi_trips
+        ;
 
 
 ---Question 9: 
